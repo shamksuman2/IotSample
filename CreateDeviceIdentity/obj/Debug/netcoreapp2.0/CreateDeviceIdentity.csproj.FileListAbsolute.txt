@@ -1,0 +1,11 @@
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\CreateDeviceIdentity\bin\Debug\netcoreapp2.0\CreateDeviceIdentity.deps.json
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\CreateDeviceIdentity\bin\Debug\netcoreapp2.0\CreateDeviceIdentity.runtimeconfig.json
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\CreateDeviceIdentity\bin\Debug\netcoreapp2.0\CreateDeviceIdentity.runtimeconfig.dev.json
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\CreateDeviceIdentity\bin\Debug\netcoreapp2.0\CreateDeviceIdentity.dll
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\CreateDeviceIdentity\obj\Debug\netcoreapp2.0\CreateDeviceIdentity.csprojResolveAssemblyReference.cache
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\CreateDeviceIdentity\obj\Debug\netcoreapp2.0\CreateDeviceIdentity.csproj.CoreCompileInputs.cache
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\CreateDeviceIdentity\obj\Debug\netcoreapp2.0\CreateDeviceIdentity.AssemblyInfoInputs.cache
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\CreateDeviceIdentity\obj\Debug\netcoreapp2.0\CreateDeviceIdentity.AssemblyInfo.cs
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\CreateDeviceIdentity\bin\Debug\netcoreapp2.0\CreateDeviceIdentity.pdb
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\CreateDeviceIdentity\obj\Debug\netcoreapp2.0\CreateDeviceIdentity.dll
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\CreateDeviceIdentity\obj\Debug\netcoreapp2.0\CreateDeviceIdentity.pdb

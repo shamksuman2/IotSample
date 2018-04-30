@@ -1,0 +1,9 @@
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\ReadDeviceToCloudMessagesWithNetframework\bin\Debug\ReadDeviceToCloudMessagesWithNetframework.exe.config
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\ReadDeviceToCloudMessagesWithNetframework\bin\Debug\ReadDeviceToCloudMessagesWithNetframework.exe
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\ReadDeviceToCloudMessagesWithNetframework\bin\Debug\ReadDeviceToCloudMessagesWithNetframework.pdb
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\ReadDeviceToCloudMessagesWithNetframework\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\ReadDeviceToCloudMessagesWithNetframework\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\ReadDeviceToCloudMessagesWithNetframework\obj\Debug\ReadDeviceToCloudMessagesWithNetframework.csprojResolveAssemblyReference.cache
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\ReadDeviceToCloudMessagesWithNetframework\obj\Debug\ReadDeviceToCloudMessagesWithNetframework.csproj.CoreCompileInputs.cache
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\ReadDeviceToCloudMessagesWithNetframework\obj\Debug\ReadDeviceToCloudMessagesWithNetframework.exe
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\ReadDeviceToCloudMessagesWithNetframework\obj\Debug\ReadDeviceToCloudMessagesWithNetframework.pdb

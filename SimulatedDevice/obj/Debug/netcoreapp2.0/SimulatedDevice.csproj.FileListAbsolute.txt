@@ -1,0 +1,11 @@
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\SimulatedDevice\bin\Debug\netcoreapp2.0\SimulatedDevice.deps.json
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\SimulatedDevice\bin\Debug\netcoreapp2.0\SimulatedDevice.runtimeconfig.json
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\SimulatedDevice\bin\Debug\netcoreapp2.0\SimulatedDevice.runtimeconfig.dev.json
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\SimulatedDevice\bin\Debug\netcoreapp2.0\SimulatedDevice.dll
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\SimulatedDevice\obj\Debug\netcoreapp2.0\SimulatedDevice.csproj.CoreCompileInputs.cache
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\SimulatedDevice\obj\Debug\netcoreapp2.0\SimulatedDevice.AssemblyInfoInputs.cache
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\SimulatedDevice\obj\Debug\netcoreapp2.0\SimulatedDevice.AssemblyInfo.cs
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\SimulatedDevice\bin\Debug\netcoreapp2.0\SimulatedDevice.pdb
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\SimulatedDevice\obj\Debug\netcoreapp2.0\SimulatedDevice.csprojResolveAssemblyReference.cache
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\SimulatedDevice\obj\Debug\netcoreapp2.0\SimulatedDevice.dll
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\SimulatedDevice\obj\Debug\netcoreapp2.0\SimulatedDevice.pdb

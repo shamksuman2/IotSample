@@ -1,0 +1,11 @@
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\ReadDeviceToCloudMessages\bin\Debug\netcoreapp2.0\ReadDeviceToCloudMessages.deps.json
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\ReadDeviceToCloudMessages\bin\Debug\netcoreapp2.0\ReadDeviceToCloudMessages.runtimeconfig.json
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\ReadDeviceToCloudMessages\bin\Debug\netcoreapp2.0\ReadDeviceToCloudMessages.runtimeconfig.dev.json
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\ReadDeviceToCloudMessages\bin\Debug\netcoreapp2.0\ReadDeviceToCloudMessages.dll
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\ReadDeviceToCloudMessages\obj\Debug\netcoreapp2.0\ReadDeviceToCloudMessages.csprojResolveAssemblyReference.cache
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\ReadDeviceToCloudMessages\obj\Debug\netcoreapp2.0\ReadDeviceToCloudMessages.csproj.CoreCompileInputs.cache
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\ReadDeviceToCloudMessages\obj\Debug\netcoreapp2.0\ReadDeviceToCloudMessages.AssemblyInfoInputs.cache
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\ReadDeviceToCloudMessages\obj\Debug\netcoreapp2.0\ReadDeviceToCloudMessages.AssemblyInfo.cs
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\ReadDeviceToCloudMessages\bin\Debug\netcoreapp2.0\ReadDeviceToCloudMessages.pdb
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\ReadDeviceToCloudMessages\obj\Debug\netcoreapp2.0\ReadDeviceToCloudMessages.dll
+C:\Users\h195854\Desktop\Miscellanious\Assignments\IoT\IotSample\ReadDeviceToCloudMessages\obj\Debug\netcoreapp2.0\ReadDeviceToCloudMessages.pdb
